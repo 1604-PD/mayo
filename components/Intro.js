@@ -6,7 +6,7 @@ export default function Intro() {
         <div className='font-bold text-xl  md:text-5xl lg:text-6xl text-[#fff4cf] space-y-5 '>
             
             <div className='flex-none'>
-              <p>I&#39;m</p>
+              <p>I&#39;m a</p>
               <div className='typewriter'>
                 <h1 className='text-[#ffb200]'>Web Developer</h1>
               </div>
