@@ -6,7 +6,7 @@ import Sphere_shape from './Sphere_shape'
 export default function About() {
   return (
     <div className='md:grid md:grid-flow-row md:grid-cols-12 text-white w-full   rounded '>
-        <div className='hidden md:inline col-span-6'>
+        <div className=' col-span-6'>
           <div className='h-96  animate-bounce'>
         
         
