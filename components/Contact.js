@@ -1,7 +1,7 @@
 import React from 'react'
 import {BsGithub, BsPhone} from 'react-icons/bs'
 import {MdEmail, MdPhone} from 'react-icons/md'
-import {} from 'react-icons/all'
+
 export default function Contact() {
   return (
     <div className='pb-20 text-sm'>
