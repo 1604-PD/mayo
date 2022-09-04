@@ -18,7 +18,7 @@ export default function Technologies() {
     <div className='md:grid grid-flow-row grid-cols-12 mt-20 '>
         <div className='md:hidden col-span-6 text-white'>
             <div className='flex space-x-3 p-1 items-center'>            
-            <p className='font-bold   whitespace-nowrap'><f className='text-[#fff4cf]'> </f>03. Tools</p>
+            <p className='font-bold   whitespace-nowrap'><f className='text-[#fff4cf]'> </f>03. Work</p>
             <div className='h-[0.100em] w-full bg-white rounded-full' />
           </div>
           <div className='text-sm  p-5 md:p-5 text-justify space-y-5 '>
@@ -29,7 +29,7 @@ export default function Technologies() {
             <p></p>
           </div>
         </div>
-        <div className='col-span-6 pr-10'>
+        <div className='col-span-6 md:pr-10'>
             <ul className='flex justify-evenly space-x-5'>
                 <li>
                     <Image src={Auth} width={500} height={500} objectFit='contain' />

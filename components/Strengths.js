@@ -17,8 +17,8 @@ export default function Strengths() {
             <div className='h-[0.100em] w-full bg-white rounded-full' />
           </div>
           <div className='text-sm sm:pr-5 p-5 md:p-5 text-justify space-y-5 '>
-            <p>My first encounter with HTML was back in 2017. The IT teacher had introduced the class to basic HTML and CSS as requested by the curriculum. Ever since I got aroused with curiosity, and wondered how do websites really work, i can't stop learning and building </p>
-            <p className='text-justify'>I am a huge fan of Javascript. Using NextJS I can work with both the front-end and back-end to render static or dynamic content. NextJS lets me creates re-usable components, which means i write once and re-use.  </p> 
+            <p>My first encounter with HTML was back in 2017. The IT teacher had introduced the class to basic HTML and CSS as requested by the curriculum. Ever since I got aroused with curiosity, and wondered how do websites really work, I can&#39;t stop learning and building </p>
+            <p className='text-justify'>I am a huge fan of Javascript. Using NextJS I can work with both the front-end and back-end to render static or dynamic content. NextJS lets me creates re-usable components, which means I write once and re-use.  </p> 
           </div>
           <div>
             <p></p>
