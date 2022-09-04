@@ -14,10 +14,7 @@ export default function Contact() {
           <MdEmail  className='text-lg' />
           <p>makabmahlalela@gmail.com</p>
         </li>
-        <li className='flex items-center space-x-4'>
-          <BsGithub  className='text-lg' />
-          <p>1604-pd</p>
-        </li>
+        
         
         
       </ul>
